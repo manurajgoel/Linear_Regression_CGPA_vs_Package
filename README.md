@@ -29,6 +29,12 @@ The objective of this project is to understand the **complete machine learning w
 - Best Fit Line Visualization
 - Making predictions on new data
 
+## Improving Model Performance
+- Adding More Features (projects, skills etc)
+- Removing Outliers
+- Feature Scaling — Normalize features with StandardScaler when working with
+  multiple features of different ranges.
+
 
 ## 🪜 Project Workflow
 1. Import required libraries
